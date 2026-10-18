@@ -76,7 +76,7 @@ function App() {
             <span className="rounded-full bg-[#222222] px-4 py-1 text-[#FAF3E1]">
               Shell
             </span>
-            <span>12 commits</span>
+            <span>12 commits nsunsnvus</span>
           </div>
         </div>
       </main>
@@ -85,6 +85,8 @@ function App() {
         <p>Every profile on DevHub is public.</p>
       </footer>
     </div>
+
+    
   );
 }
 
